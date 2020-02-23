@@ -1,0 +1,10 @@
+<meta>
+<script src="s_nagrody.lua"/>
+<script src="c_nagrody.lua" type="client" cache="false"/>
+<file src="images/button.png"/>
+<file src="images/background.png"/>
+<file src="images/ikonagolda.png"/>
+<file src="images/ikonasrebra.png"/>
+<file src="images/ikonaexpa.png"/>
+<file src="images/ikonapremiumhop.png"/>
+</meta>

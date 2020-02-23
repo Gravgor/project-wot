@@ -1,0 +1,11 @@
+
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawRectangle(409, 226, 549, 317, tocolor(14, 14, 14, 220), false)
+        dxDrawText("Nagroda za logowanie się przez ..days.. dni pod rząd", 468, 226, 899, 267, tocolor(255, 255, 255, 255), 1.20, "default-bold", "center", "center", false, false, false, false, false)
+        dxDrawText("Miejsce na grafike", 542, 297, 825, 472, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawRectangle(588, 497, 191, 40, tocolor(14, 14, 14, 255), false)
+        dxDrawText("Odbierz", 586, 496, 779, 537, tocolor(255, 255, 255, 255), 1.00, "default-bold", "center", "center", false, false, false, false, false)
+    end
+)

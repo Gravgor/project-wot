@@ -1,0 +1,4 @@
+<meta>
+	<script src="client_samouczek.lua" type="client"/>
+	<script src="server_samouczek.lua" type="server"/>
+</meta>

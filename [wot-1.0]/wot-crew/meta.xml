@@ -1,0 +1,4 @@
+<meta>
+<script src="client_zalogi.lua" type="client"/>
+<script src="server_zalogi.lua" type="server"/>
+</meta>

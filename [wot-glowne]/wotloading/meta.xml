@@ -1,0 +1,8 @@
+<meta> 
+	<info author="NyAngel"/>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+
+	<export function="createLoading" type="client" />
+	<export function="createLoadingKwota" type="client"/>
+</meta>

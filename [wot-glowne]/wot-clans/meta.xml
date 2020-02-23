@@ -1,0 +1,4 @@
+<meta>
+<script src="client_clans.lua" type="client"/>
+<script src="server_clans.lua" type="server"/>
+</meta>

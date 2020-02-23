@@ -1,0 +1,9 @@
+<meta>
+
+<script src="server.lua" type="server"/>
+<export function="calculateWN8PointsByWin" type="shared"/>
+<export function="setZeroActualPointsWN8" type="shared"/>
+<export function="setActualWN8Points" type="shared"/>
+<export function="getActualWN8Points" type="shared"/>
+
+</meta>

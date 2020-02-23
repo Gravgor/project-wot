@@ -1,0 +1,4 @@
+
+
+-- -- -- -- -- 4.11.2018 at 16:37, Creator: Gravgor
+myCollision = createColCuboid(2423.3074, -1785.3289, 12.796875, 45.75, 28.75, 2)

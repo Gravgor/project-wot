@@ -1,0 +1,3 @@
+<meta>
+<script src="server_dynamic.lua" type="server" cache="true" validate="true"/>
+</meta>

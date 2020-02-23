@@ -1,0 +1,19 @@
+<meta>
+	<file src="files/320296616793866241.png" />
+	<file src="files/button.png"/>
+	<file src="files/logo.png"/>
+	<file src="files/pole.png"/>
+	<file src="files/strzalka.png"/>
+	<file src="mm1.png"/>
+	<file src="mm2.png"/>
+	<file src="mm3.png"/>
+	<file src="ped_wall_mrt.fx"/>
+	<file src="ped_wall.fx"/>
+	<file src="post_edge.fx"/>
+	<file src="files/Grr6mL2.png"/>
+	<file src="files/poletekstowe.png"/>
+	<script src="client_logowanie.lua" type="client"/>
+	<script src="server_logowanie.lua" type="server"/>
+	<script src="clientC.lua" type="client"/>
+	<file src="files/wot-main.mp3"/>
+</meta>

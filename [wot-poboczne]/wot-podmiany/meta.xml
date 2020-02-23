@@ -1,0 +1,8 @@
+<meta>
+	<info type="misc" name="Car replacement for: Yankee" author="project-wot" description="" version="1" />
+	<file src="456.txd" />
+	<file src="456.dff" />
+	<script type="client" src="replace.lua" />
+	<script type="client" src="readme.lua" />
+	<!-- generated with http://mta.dzek.eu/ -->
+</meta>

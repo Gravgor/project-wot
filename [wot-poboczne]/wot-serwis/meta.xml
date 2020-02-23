@@ -1,0 +1,4 @@
+<meta>
+<script src="client_serwis.lua" type="client" cache="true" validate="true"/>
+<script src="server_serwis.lua" type="server" cache="true" validate="true"/>
+</meta>

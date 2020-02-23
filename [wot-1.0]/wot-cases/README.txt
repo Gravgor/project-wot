@@ -1,0 +1,1 @@
+Skrypt odpowiadający za skrzynki (usługa premium na różne uroczystości), osoba która podejmie się tego zasobu wpisuje się tutaj i wysyła wiadomość do gravgora po wytyczne.

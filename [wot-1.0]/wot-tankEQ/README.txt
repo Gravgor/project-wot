@@ -1,0 +1,1 @@
+Skrypt odpowiadający za wyposażenie czołgów, osoba która podejmie się tego zasobu wpisuje się tutaj i wysyła wiadomość do gravgora po wytyczne.

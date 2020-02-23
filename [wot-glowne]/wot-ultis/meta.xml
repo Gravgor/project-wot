@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+	<script src="client_konfiguracja.lua" type="client" cache="true" validate="true"/>
+	<script src="server_konfiguracja.lua" type="server" cache="true" validate="true"/>
+<file src="shot.mp3"/>
+</meta>

@@ -1,0 +1,1 @@
+Tutaj znajdziemy pliki wszystkich zasobów do aktualizacji 1.0 - opis zasobów znajduje się w poszczególnych zasobach.

@@ -1,0 +1,5 @@
+<meta>
+<info author="Gravgor, mrq, podhal, nyangel"/>
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+</meta>

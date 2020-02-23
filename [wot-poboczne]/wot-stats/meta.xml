@@ -1,0 +1,6 @@
+<meta>
+<info author="AseQ"/>
+<script src="c_stats.lua" type="client" cache="false"/>
+<script src="s_stats.lua"/>
+<file src="images/background.png"/>
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+<file src="files/KAMUFLAZLESNY.png"/>
+<file src="files/kamuflazmiasto.png"/>
+<file src="files/kamuflazpustynny.png"/>
+<script src="client_kamuflaze.lua" type="client"/>
+</meta>

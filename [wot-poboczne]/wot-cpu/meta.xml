@@ -1,0 +1,5 @@
+<meta>
+	<info author="Xenius" version="0.1" type="script" name="Resource CPU usage" />
+	<script src="server_cpu.lua" type="server"/>
+	<script src="client_cpu.lua" type="client"/>
+</meta>

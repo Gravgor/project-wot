@@ -1,0 +1,7 @@
+<meta>
+<info author="AseQ"/>
+<script src="c_noti.lua" type="client" cache="false"/>
+<file src="images/error.png"/>
+<file src="images/success.png"/>
+<file src="images/info.png"/>
+</meta>
